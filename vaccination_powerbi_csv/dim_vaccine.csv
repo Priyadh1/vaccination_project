@@ -1,0 +1,87 @@
+vaccine_id,vaccine_code,vaccine_description
+1,DTAPHIBIPV,DTaP-Hib-IPV (acellular) vaccine
+2,DTAPIPV,DTaP-IPV (acellular) vaccine
+3,HEPA_ADULT,Adult Hepatitis A vaccine
+4,HEPA_PEDIATRIC,Pediatric Hepatitis A vaccine
+5,HEPB_ADULT,Adult Hepatitis B vaccine
+6,HEPB_PEDIATRIC,Pediatric Hepatitis B vaccine
+7,HPV4,HPV-4 (Human Papilloma Virus 4-valent) vaccine
+8,INFLUENZA_ADULT,Adult seasonal influenza vaccine
+9,INFLUENZA_PEDIATRIC,Pediatric seasonal influenza vaccine
+10,MEN_ACYW_135CONJ,Meningococcal ACYW conjugate vaccine
+11,MMR,"MMR (Measles, mumps and rubella) vaccine"
+12,PCV13,PCV-13 (Pneumococcal conjugate vaccine 13-valent) vaccine
+13,VARICELLA,Varicella vaccine
+14,YF,YF (Yellow fever) vaccine
+15,BCG,BCG (Baccille Calmette Guérin) vaccine
+16,DTWPHIBHEPB,DTwP-Hib-HepB (Whole cell) vaccine
+17,IPV,IPV (Inactivated polio vaccine)
+18,MEASLES,Measles vaccine
+19,OPV,OPV (Oral polio vaccine)
+20,ROTAVIRUS_1,RV-1 (Rotavirus 1-valent) vaccine
+21,TD_S,Td (Tetanus toxoid and diphtheria for older children and adults) vaccine
+22,MR,MR (Measles and rubella) vaccine
+23,TT,TT (Tetanus toxoid) vaccine
+24,VITAMINA,Vitamin A supplements
+25,DTWP,DTwP (Whole cell) vaccine
+26,TDAP_S,"Tdap (Tetanus, diphtheria for older children and adults and acellular pertussis) vaccine"
+27,DT,"DT (Tetanus toxoid and diphtheria, children's dose) vaccine"
+28,ROTAVIRUS_5,RV-5 (Rotavirus 5-valent) vaccine
+29,DTAPHIBHEPBIPV,DTaP-Hib-HepB-IPV (acellular) vaccine
+30,HPV2,HPV-2 (Human Papilloma Virus 2-valent) vaccine
+31,MEN_B,Meningococcal B vaccine
+32,MEN_C_CONJ,Meningococcal C conjugate vaccine
+33,MPOX,Mpox (monkeypox) vaccine
+34,TDAP_S_IPV,"Tdap-IPV (Tetanus, diphtheria for older children and adults, acellular pertussis and IPV) vaccine"
+35,CHOLERA,Cholera vaccine
+36,HIB,Hib (Haemophilus influenzae type B) vaccine
+37,HPV9,HPV-9 (Human Papilloma Virus 9-valent) vaccine
+38,PPV23,PPV-23 (Pneumococcal polysaccharide 23 valent) vaccine
+39,TYPHOID_CONJ,Typhoid conjugate vaccine
+40,ZOSTER,Shingles (Herpes zoster for older adults) vaccine
+41,RABIES,Rabies vaccine
+42,TULAREMIA,Tularemia vaccine
+43,DTAP,DTaP (acellular) vaccine
+44,MMRV,"MMRV (Measles, mumps, rubella and varicella) vaccine"
+45,PCV10,PCV-10 (Pneumococcal conjugate vaccine 10-valent) vaccine
+46,PCV_15_VALENT,PCV-15 (Pneumococcal conjugate vaccine 15-valent) vaccine
+47,PCV20,PCV-20 (Pneumococcal conjugate vaccine 20-valent) vaccine
+48,MEN_A_CONJ,Meningococcal A conjugate vaccine
+49,IPV_FRAC,IPVf (Inactivated polio vaccine fractional dose)
+50,CCHF,CCHF (Crimean-Congo Hemorrhagic Fever) vaccine
+51,TYPHOID_PS,Typhoid polysaccharide vaccine
+52,DTWPHIB,DTwP-Hib (Whole cell) vaccine
+53,ANTHRAX,Anthrax vaccine
+54,AP,aP (acellular pertussis) vaccine
+55,D_S,Diphtheria vaccine for older children and adults
+56,TBE_ADULT,Adult TBE (tick borne encephalitis) vaccine
+57,TBE_PEDIATRIC,Pediatric TBE (tick borne encephalitis) vaccine
+58,JE_INACTD,JE-Inact (Japanese Encephalitis inactivated) vaccine
+59,HEPA_HEPB,"Hepatitis A, Hepatitis B vaccine"
+60,HEPA_INACTD,Hepatitis A inactivted
+61,HEPA_LIVEATD,Hepatitis A live attenuated
+62,JE_LIVEATD,JE-Livatd (Japanese Encephalitis live-attenuated) vaccine
+63,MEN_A_PS,Meningococcal A polysaccharide vaccine
+64,MEN_AC_PS,Meningococcal AC polysaccharide vaccine
+65,DTAPHIBHEPB,DTaP-Hib-HepB (acellular) vaccine
+66,LEPTOSPIROSIS,Leptospirosis
+67,MEN_BC,Meningococcal BC vaccine
+68,MEN_ACYW_135PS,Meningococcal ACYW polysaccharide vaccine
+69,DTAPHEPBIPV,DTaP-HepB-IPV (acellular) vaccine
+70,TDIPV_S,"Td-IPV (Tetanus, diphtheria for older children and adults and IPV) vaccine"
+71,HIB_MEN_C_CONJ,"Hib (Haemophilus influenzae type B), Meningococcal C conjugate vaccine"
+72,RTS_S,Malaria vaccine
+73,TYPHOIDHEPA,Typhoid and Hepatitis A
+74,HFRS,Hemorrhagic fever with renal syndrome vaccine
+75,MEN_AC_CONJ,Meningococcal AC conjugate vaccine
+76,DTWPHIBHEPBIPV,DTwP-Hib-HepB-IPV (Whole cell) vaccine
+77,DTAPHIB,DTaP-Hib (acellular) vaccine
+78,DIP,"Diphtheria vaccine, children's dose"
+79,DTWPHEPB,DTwP-HepB (Whole cell) vaccine
+80,MM,MM (Measles and mumps) vaccine
+81,MUMPS,Mumps vaccine
+82,RUBELLA,Rubella vaccine
+83,DTIPV,DT-IPV (Diphtheria and tetanus toxoid and IPV) vaccine
+84,HPV,HPV (Human Papilloma Virus) vaccine
+85,DENGUE,Dengue vaccine
+86,EBOLA,Ebola vaccine

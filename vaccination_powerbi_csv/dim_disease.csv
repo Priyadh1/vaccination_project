@@ -1,0 +1,14 @@
+disease_id,disease_code,disease_description
+1,CRS,Congenital rubella syndrome
+2,DIPHTHERIA,Diphtheria
+3,INVASIVE_MENING,Invasive meningococcal disease
+4,MEASLES,Measles
+5,MUMPS,Mumps
+6,NTETANUS,Neonatal tetanus
+7,PERTUSSIS,Pertussis
+8,POLIO,Poliomyelitis
+9,RUBELLA,Rubella
+10,TTETANUS,Total tetanus
+11,TYPHOID,Typhoid
+12,YFEVER,Yellow fever
+13,JAPENC,Japanese encephalitis
