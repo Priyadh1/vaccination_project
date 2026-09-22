@@ -1,0 +1,215 @@
+country_id,iso_3_code,country_name,who_region
+1,ABW,Aruba,AMRO
+2,AFG,Afghanistan,EMRO
+3,AGO,Angola,AFRO
+4,AIA,Anguilla,AMRO
+5,ALB,Albania,EURO
+6,AND,Andorra,EURO
+7,ARE,United Arab Emirates,EMRO
+8,ARG,Argentina,AMRO
+9,ARM,Armenia,EURO
+10,ASM,American Samoa,
+11,ATG,Antigua and Barbuda,AMRO
+12,AUS,Australia,WPRO
+13,AUT,Austria,EURO
+14,AZE,Azerbaijan,EURO
+15,BDI,Burundi,AFRO
+16,BEL,Belgium,EURO
+17,BEN,Benin,AFRO
+18,BFA,Burkina Faso,AFRO
+19,BGD,Bangladesh,SEARO
+20,BGR,Bulgaria,EURO
+21,BHR,Bahrain,EMRO
+22,BHS,Bahamas,AMRO
+23,BIH,Bosnia and Herzegovina,EURO
+24,BLR,Belarus,EURO
+25,BLZ,Belize,AMRO
+26,BMU,Bermuda,AMRO
+27,BOL,Bolivia (Plurinational State of),AMRO
+28,BRA,Brazil,AMRO
+29,BRB,Barbados,AMRO
+30,BRN,Brunei Darussalam,WPRO
+31,BTN,Bhutan,SEARO
+32,BWA,Botswana,AFRO
+33,CAF,Central African Republic,AFRO
+34,CAN,Canada,AMRO
+35,CHE,Switzerland,EURO
+36,CHL,Chile,AMRO
+37,CHN,China,WPRO
+38,CIV,Côte d'Ivoire,AFRO
+39,CMR,Cameroon,AFRO
+40,COD,Democratic Republic of the Congo,AFRO
+41,COG,Congo,AFRO
+42,COK,Cook Islands,WPRO
+43,COL,Colombia,AMRO
+44,COM,Comoros,AFRO
+45,CPV,Cabo Verde,AFRO
+46,CRI,Costa Rica,AMRO
+47,CUB,Cuba,AMRO
+48,CUW,Curaçao,AMRO
+49,CYM,Cayman Islands,AMRO
+50,CYP,Cyprus,EURO
+51,CZE,Czechia,EURO
+52,DEU,Germany,EURO
+53,DJI,Djibouti,EMRO
+54,DMA,Dominica,AMRO
+55,DNK,Denmark,EURO
+56,DOM,Dominican Republic,AMRO
+57,DZA,Algeria,AFRO
+58,ECU,Ecuador,AMRO
+59,EGY,Egypt,EMRO
+60,ERI,Eritrea,AFRO
+61,ESP,Spain,EURO
+62,EST,Estonia,EURO
+63,ETH,Ethiopia,AFRO
+64,FIN,Finland,EURO
+65,FJI,Fiji,WPRO
+66,FRA,France,EURO
+67,FSM,Micronesia (Federated States of),WPRO
+68,GAB,Gabon,AFRO
+69,GBR,United Kingdom of Great Britain and Northern Ireland,EURO
+70,GEO,Georgia,EURO
+71,GHA,Ghana,AFRO
+72,GIN,Guinea,AFRO
+73,GMB,Gambia,AFRO
+74,GNB,Guinea-Bissau,AFRO
+75,GNQ,Equatorial Guinea,AFRO
+76,GRC,Greece,EURO
+77,GRD,Grenada,AMRO
+78,GTM,Guatemala,AMRO
+79,GUM,Guam,WPRO
+80,GUY,Guyana,AMRO
+81,HKG,"China, Hong Kong SAR",WPRO
+82,HND,Honduras,AMRO
+83,HRV,Croatia,EURO
+84,HTI,Haiti,AMRO
+85,HUN,Hungary,EURO
+86,IDN,Indonesia,SEARO
+87,IND,India,SEARO
+88,IRL,Ireland,EURO
+89,IRN,Iran (Islamic Republic of),EMRO
+90,IRQ,Iraq,EMRO
+91,ISL,Iceland,EURO
+92,ISR,Israel,EURO
+93,ITA,Italy,EURO
+94,JAM,Jamaica,AMRO
+95,JOR,Jordan,EMRO
+96,JPN,Japan,WPRO
+97,KAZ,Kazakhstan,EURO
+98,KEN,Kenya,AFRO
+99,KGZ,Kyrgyzstan,EURO
+100,KHM,Cambodia,WPRO
+101,KIR,Kiribati,WPRO
+102,KNA,Saint Kitts and Nevis,AMRO
+103,KOR,Republic of Korea,WPRO
+104,KWT,Kuwait,EMRO
+105,LAO,Lao People's Democratic Republic,WPRO
+106,LBN,Lebanon,EMRO
+107,LBR,Liberia,AFRO
+108,LBY,Libya,EMRO
+109,LCA,Saint Lucia,AMRO
+110,LKA,Sri Lanka,SEARO
+111,LSO,Lesotho,AFRO
+112,LTU,Lithuania,EURO
+113,LUX,Luxembourg,EURO
+114,LVA,Latvia,EURO
+115,MAC,"China, Macao SAR",WPRO
+116,MAR,Morocco,EMRO
+117,MCO,Monaco,EURO
+118,MDA,Republic of Moldova,EURO
+119,MDG,Madagascar,AFRO
+120,MDV,Maldives,SEARO
+121,MEX,Mexico,AMRO
+122,MHL,Marshall Islands,WPRO
+123,MKD,North Macedonia,EURO
+124,MLI,Mali,AFRO
+125,MLT,Malta,EURO
+126,MMR,Myanmar,SEARO
+127,MNE,Montenegro,EURO
+128,MNG,Mongolia,WPRO
+129,MNP,Northern Mariana Islands,WPRO
+130,MOZ,Mozambique,AFRO
+131,MRT,Mauritania,AFRO
+132,MSR,Montserrat,AMRO
+133,MUS,Mauritius,AFRO
+134,MWI,Malawi,AFRO
+135,MYS,Malaysia,WPRO
+136,NAM,Namibia,AFRO
+137,NCL,New Caledonia,WPRO
+138,NER,Niger,AFRO
+139,NGA,Nigeria,AFRO
+140,NIC,Nicaragua,AMRO
+141,NIU,Niue,WPRO
+142,NLD,Netherlands (Kingdom of the),EURO
+143,NOR,Norway,EURO
+144,NPL,Nepal,SEARO
+145,NRU,Nauru,WPRO
+146,NZL,New Zealand,WPRO
+147,OMN,Oman,EMRO
+148,PAK,Pakistan,EMRO
+149,PAN,Panama,AMRO
+150,PER,Peru,AMRO
+151,PHL,Philippines,WPRO
+152,PLW,Palau,WPRO
+153,PNG,Papua New Guinea,WPRO
+154,POL,Poland,EURO
+155,PRK,Democratic People's Republic of Korea,SEARO
+156,PRT,Portugal,EURO
+157,PRY,Paraguay,AMRO
+158,PSE,"occupied Palestinian territory, including east Jerusalem",EMRO
+159,PYF,French Polynesia,WPRO
+160,QAT,Qatar,EMRO
+161,ROU,Romania,EURO
+162,RUS,Russian Federation,EURO
+163,RWA,Rwanda,AFRO
+164,SAU,Saudi Arabia,EMRO
+165,SDN,Sudan,EMRO
+166,SEN,Senegal,AFRO
+167,SGP,Singapore,WPRO
+168,SLB,Solomon Islands,WPRO
+169,SLE,Sierra Leone,AFRO
+170,SLV,El Salvador,AMRO
+171,SMR,San Marino,EURO
+172,SOM,Somalia,EMRO
+173,SRB,Serbia,EURO
+174,SSD,South Sudan,AFRO
+175,STP,Sao Tome and Principe,AFRO
+176,SUR,Suriname,AMRO
+177,SVK,Slovakia,EURO
+178,SVN,Slovenia,EURO
+179,SWE,Sweden,EURO
+180,SWZ,Eswatini,AFRO
+181,SXM,Sint Maarten (Dutch part),AMRO
+182,SYC,Seychelles,AFRO
+183,SYR,Syrian Arab Republic,EMRO
+184,TCA,Turks and Caicos Islands,AMRO
+185,TCD,Chad,AFRO
+186,TGO,Togo,AFRO
+187,THA,Thailand,SEARO
+188,TJK,Tajikistan,EURO
+189,TKL,Tokelau,WPRO
+190,TKM,Turkmenistan,EURO
+191,TLS,Timor-Leste,SEARO
+192,TON,Tonga,WPRO
+193,TTO,Trinidad and Tobago,AMRO
+194,TUN,Tunisia,EMRO
+195,TUR,Türkiye,EURO
+196,TUV,Tuvalu,WPRO
+197,TZA,United Republic of Tanzania,AFRO
+198,UGA,Uganda,AFRO
+199,UKR,Ukraine,EURO
+200,URY,Uruguay,AMRO
+201,USA,United States of America,AMRO
+202,UZB,Uzbekistan,EURO
+203,VCT,Saint Vincent and the Grenadines,AMRO
+204,VEN,Venezuela (Bolivarian Republic of),AMRO
+205,VGB,British Virgin Islands,AMRO
+206,VNM,Viet Nam,WPRO
+207,VUT,Vanuatu,WPRO
+208,WLF,Wallis and Futuna,WPRO
+209,WSM,Samoa,WPRO
+210,XKX,Kosovo (in accordance with UN Security Council resolution 1244 (1999)),EURO
+211,YEM,Yemen,EMRO
+212,ZAF,South Africa,AFRO
+213,ZMB,Zambia,AFRO
+214,ZWE,Zimbabwe,AFRO

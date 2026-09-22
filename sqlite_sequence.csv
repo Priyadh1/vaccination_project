@@ -1,0 +1,9 @@
+name,seq
+dim_country,214
+dim_disease,13
+dim_vaccine,86
+fact_vaccine_introduction,276640
+fact_vaccine_schedule,16104
+fact_coverage,399858
+fact_incidence,84945
+fact_cases,84869
