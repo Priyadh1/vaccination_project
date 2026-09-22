@@ -128,6 +128,6 @@ The repository contains the project notebook, source datasets, cleaned/SQL table
 
 **Priyadharshini**
 
-M.Sc. Computer Science
+
 
 GitHub: https://github.com/Priyadh1/vaccination_project
